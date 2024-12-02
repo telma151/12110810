@@ -10,3 +10,4 @@ int main()
     cout << "O número introduzido foi: " << number << endl;
     return 0;
 }
+ 
